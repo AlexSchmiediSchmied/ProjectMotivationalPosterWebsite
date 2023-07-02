@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+#backdrop{
+
+   
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    background-color: #FAE3AD;
+    height: auto;
+    width: 600px;
+    border: solid;
+    border-color: white;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border: solid;
+    border-width: 5px;
+    border-color: #DA1415;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    background-color: #003050 ;
+    color: #7096A0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;;
+    color:#7096A0;
+}
